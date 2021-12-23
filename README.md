@@ -2,7 +2,7 @@
 
 
 - [Lecture 1: Course overview + the shell](https://missing-semester-kr.github.io/2020/course-shell/)  
-  ㄴ [solution]()
+  ㄴ [ ] [solution]()
   
 - [Lecture 2: Shell Tools and Scripting]()  
   ㄴ [solution]()
